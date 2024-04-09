@@ -2,3 +2,4 @@
 
 ![Static Badge](https://img.shields.io/badge/instagram-pink?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fhelia__32%2F)
 
+![SeongJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnSeongJin&show_icons=true&theme=radical)
